@@ -51,7 +51,7 @@ Training scripts are not included. Use `matches.csv` and `deliveries.csv` to eng
 
 Deployment
 ----------
-Deployed site: ADD_DEPLOYED_URL_HERE
+Deployed site: https://ipl-match-predictor-1.streamlit.app/
 
 Contact
 -------
